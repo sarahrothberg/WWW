@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.waterwithoutwet.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Sarah\\Documents\\WATERWITHOUTWET\\WATERWITHOUTWET\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "WATERWITHOUTWET [Testing]"
+        }
+      }
+    }
+  ]
+}
